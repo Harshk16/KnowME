@@ -1,3 +1,3 @@
 # KnowME
 
-# To run run dev
+ To npm run dev
